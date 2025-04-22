@@ -109,7 +109,7 @@ def validation():
 
     
 
-    # 读取固定图像
+    # 读取案例图像
     folder = args.validation_dir
     img_example = read_one_image(folder)
     input_img = np.array(img_example, dtype=np.float32)  # 转换为 NumPy 数组
