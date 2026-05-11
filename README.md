@@ -4,10 +4,9 @@ This is the official Pytorch implementation of "An interpretable neural network 
 
 ## Framework
 
-
-
-<img src="C:\Users\hr_ha\AppData\Roaming\Typora\typora-user-images\image-20260510231503343.png" alt="image-20260510231503343" style="zoom:67%;" />
-
+<p align="center">
+  <img src="assets/framework.png" width="600">
+</p>
 
 
 ## Environment
