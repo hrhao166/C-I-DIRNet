@@ -34,4 +34,7 @@ C-I-DIRNet/
 ```
 
 ## Data
+The complete training data can be downloaded via the following method: The file training data.zipis shared through a cloud storage service.
+Link: https://pan.baidu.com/s/12udE_E7ZnCsAIU_S5RD_MA
+Access Code: enj7
 
